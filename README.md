@@ -2,7 +2,7 @@
 C code for analyzing confidence ratings data using signal detection
 
 
-This repository contains the code needed to analyse confidence-ratings recognition memory data ([Morey, Pratte, & Rouder, 2008](http://www.sciencedirect.com/science/article/pii/S0022249608000242)). This code is old; I am putting it here for archival purposes.
+This repository contains the code needed to analyse confidence-ratings recognition memory data ([Morey, Pratte, & Rouder, 2008](http://www.sciencedirect.com/science/article/pii/S0022249608000242)). This code is old; I am putting it here for archival purposes. Much of this code was superseded by the [hbmem](https://cran.r-project.org/web/packages/hbmem) R package, but this code may be interesting for learning purposes.
 
 The files included are:
 
