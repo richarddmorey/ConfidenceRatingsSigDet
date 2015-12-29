@@ -23,6 +23,7 @@
 
 # Executables
 *.exe
+!sd2.exe
 *.out
 *.app
 *.i*86
